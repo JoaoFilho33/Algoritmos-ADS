@@ -1,0 +1,1 @@
+Atividades da disciplina de Algoritmos ADS 2022
